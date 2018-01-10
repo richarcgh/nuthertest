@@ -1,4 +1,6 @@
-# hello-world
-This is a repository I am creating to learn how to use Github
+# nuthertest
+This is another repository I am creating to learn how to use Github
 
-This is Chris.  I am writing about myself so that I can create new edits for this branch.  I want to understand GitHub, and how to use it, talk about it and plan for it in our journey towards DevSecOps.
+I was trying to understand, and remember how to edit a file once it is in GitHub.  This will take a little getting used to for me.
+
+I need to learn how to edit the code in GitHub so that I can add formatting.
